@@ -22,5 +22,5 @@ int main(void)
 	// ‰½‚©ƒL[‚ª‰Ÿ‚³‚ê‚é‚Ü‚Å‘Ò‚Â
 	cv::waitKey();
 
-	return 0;
+	return 0;gg
 }
